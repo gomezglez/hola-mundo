@@ -1,0 +1,25 @@
+Plugin para WP :Insert Headers and Footers, permite insertar codigo Htmlen el encabezado y pie de página
+con ayuda de Facebook bussines
+
+Akismet Antis-spam: 
+Jetpack trabajan juntos para evitar spam en los comentarios.
+
+
+Para migrar un sitio con All in One WP migration
+primero export
+
+en el otro sitio import
+
+SE poene en el primer sitio el dominio original en el primer y segundo renglon
+despues le ponemos File para que genere un archivo y posterirmente descargarlo.
+
+Se instala previamente un pligun adcional del propiio Al in one que permite subir archivo mayures de 500 KB
+
+una vez modificado, se debe entrar con el suario que teniamos anteriormente
+y debemos modificar los permalinks omo lo teniamos en el anterior.
+
+
+
+
+
+
